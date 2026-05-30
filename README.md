@@ -167,7 +167,7 @@ sp13-image-filters/
 5. Click **"Deploy!"**
 
 ### Step 3: Get Your Public URL
-- After ~2-3 minutes, your app will be live at:
+- app will be live at:
 https://sp13-image-filters.streamlit.app/
 
 
