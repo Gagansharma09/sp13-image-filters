@@ -53,7 +53,7 @@ The app will open automatically in your browser at `http://localhost:8501`
 
 ---
 
-## How to Deploy on Streamlit Community Cloud (FREE)
+## How i deployed  Deploy on Streamlit Community Cloud (FREE)
 
 ### Step 1: Push to GitHub
 1. Create a GitHub account at https://github.com
@@ -65,15 +65,15 @@ The app will open automatically in your browser at `http://localhost:8501`
 2. Sign in with your GitHub account
 3. Click **"New app"**
 4. Fill in:
-   - **Repository:** `your-username/sp13-image-filters`
+   - **Repository:** `https://github.com/Gagansharma09/sp13-image-filters/edit/main/README.md`
    - **Branch:** `main`
    - **Main file path:** `app.py`
 5. Click **"Deploy!"**
 
 ### Step 3: Get Your Public URL
 - After ~2-3 minutes, your app will be live at:
-  `https://your-username-sp13-image-filters-app-XXXXX.streamlit.app`
-- Copy this URL and paste it in your report's **Annexure** section
+https://sp13-image-filters.streamlit.app/
+
 
 **Cost: Completely FREE. No credit card needed.**
 
